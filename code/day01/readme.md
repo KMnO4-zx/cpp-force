@@ -1,4 +1,4 @@
-# Weak 01
+# Day 1: Introduction to C++
 
 ## Hello world
 
